@@ -1,0 +1,51 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #007bff;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+.input-group {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#query {
+    border: 2px solid #007bff;
+    border-radius: 5px;
+}
+
+#searchButton {
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+#results {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.card {
+    border: 1px solid #007bff;
+    border-radius: 10px;
+}
+
+.card-body {
+    background-color: #e9ecef;
+}
+
+.card-title {
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+.card-text img {
+    max-width: 100px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+}
